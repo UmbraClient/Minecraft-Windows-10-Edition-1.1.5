@@ -20,6 +20,9 @@ Link: https://mega.nz/file/KPwTgbKZ#JSsVKmKByvulox3OkyzzRaDqnEHyigYDYL8zrldRwqs
 **4. Облегчённый вариант без функций [Lite]**  
 Link: https://mega.nz/file/XPRQVQQQ#Uu4zLi6Qn1L7dIssqCBY9sVJN5okL5BgktJzO0CF3o0
 
+**Видео как установить сертификат:**
+Link: https://youtu.be/xDRDlaIk4y4
+
 ## Что удалено во всех версиях:
 
 - **vanilla_vr** — текстуры VR
