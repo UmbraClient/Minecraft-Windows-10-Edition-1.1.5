@@ -21,7 +21,10 @@ Link: https://mega.nz/file/KPwTgbKZ#JSsVKmKByvulox3OkyzzRaDqnEHyigYDYL8zrldRwqs
 Link: https://mega.nz/file/XPRQVQQQ#Uu4zLi6Qn1L7dIssqCBY9sVJN5okL5BgktJzO0CF3o0
 
 **Видео как установить сертификат:**  
-Link: https://youtu.be/xDRDlaIk4y4
+Link: https://youtu.be/xDRDlaIk4y4  
+
+**Если ссылки для скачивания с mega не работают, можете скачать с:**  
+Link: https://github.com/UmbraClient/Minecraft-Windows-10-Edition-1.1.5/releases    
 
 ## Что удалено во всех версиях:
 
