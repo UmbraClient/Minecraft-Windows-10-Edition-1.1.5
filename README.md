@@ -5,7 +5,7 @@
 Все скины разблокированы во всех версиях.
 
 # Доступные версии:
-1. Полная версия: AutoSprint + NoHurtCam
+1. Полная версия: AutoSprint + NoHurtCam\n
    Link: https://mega.nz/file/uDhFERIb#SCOyqLc5yXNggwk_7IZZU0jvSaKQ3-o8IkRlHrzkgBI
 
 2. Только AutoSprint
